@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> 972df98fb1dbf0883f10bc74ddc3ee7589540ed7
 /*!
  * Bootstrap v3.3.6 (http://getbootstrap.com)
  * Copyright 2011-2015 Twitter, Inc.
@@ -6758,3 +6762,50 @@ button.close {
   }
 }
 /*# sourceMappingURL=bootstrap.css.map */
+<<<<<<< HEAD
+=======
+
+
+
+
+
+
+
+
+#nav-list {
+    text-align: center;
+    background-color: aquamarine;
+}
+
+.container-fluid .navbar-header {
+    border-radius: 2px;
+    /* background-color: pink; */
+}
+
+.navbar-brand h1{
+    /* background-color: limegreen; */
+    color:black;
+}
+
+.navbar-brand{
+    padding-top: 0px;
+    /* height: 50px; */
+    margin-top: -10px;
+    /* background-color: salmon; */
+}
+
+#paragraph {
+    background-color: lightgrey;
+    margin-left: 20px ;
+    margin-right: 20px;
+}
+
+.navbar-collapse > ul {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.container-fluid > a {
+    background-color: limegreen;
+}
+>>>>>>> 972df98fb1dbf0883f10bc74ddc3ee7589540ed7
